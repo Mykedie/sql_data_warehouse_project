@@ -1,14 +1,14 @@
 # sql_data_warehouse_project
 Building a modern data warehouse with SQL server, including ELT processes, Data Modeling and Analytics.
 
-##Project Requirement
+## Project Requirement ##
 
-1. **Build the data warehouse (Data Engineering)**
+1. ** Build the data warehouse (Data Engineering) **
 
-###Objective###
+### Objective ###
 Develop a modern data warehouse using SQL server to consolidate sales data, enabling analytical reporting and informed decision making.
 
-###Specifications###
+### Specifications ###
 
 **Data Sources:** Import data from two source system (ERP and CRM) provided as CSV files
 **Data Quality:** Cleanse and resolve data quality issues prior to analysis.
